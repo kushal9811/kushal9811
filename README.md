@@ -50,9 +50,7 @@
 </p>
 
 <!-- Stats Section -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal9811&" alt="kushal9811" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal9811&show_icons=true&locale=en&layout=compact" alt="kushal9811" /></p>
 
 <p>
 <a href="https://leetcode.com/u/kushalgangwar98/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/kushalgangwar98?ext=contest"/></a>
