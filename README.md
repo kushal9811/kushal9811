@@ -12,7 +12,7 @@
 
 - 🤝 Open to collaborate on Full Stack Web Dev and AI/ML Projects
 
-- 📝 I am a pre-final year student at **NSUT**
+- 📝 I am a final year student at **NSUT**
 
 <a href="https://kushalportfolionsut.netlify.app/" target="_blank">
 <table align="right">
