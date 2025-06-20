@@ -14,7 +14,7 @@
 
 - 📝 I am a final year student at **NSUT**
 
-<a href="https://kushalportfolionsut.netlify.app/" target="_blank">
+<a href="https://kushal-portfolio-seven.vercel.app/" target="_blank">
 <table align="right">
   <tr>
     <td>
